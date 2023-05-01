@@ -1,5 +1,5 @@
-# Repeater-Availability-Application
-T<img src="https://img.shields.io/badge/updated-08%20Jun%202021-green" /> <img src="https://img.shields.io/badge/release-v1.1-blueviolet" /> <img src="https://img.shields.io/badge/python-v3.7.4-yellow">
+
+<img src="https://img.shields.io/badge/updated-08%20Jun%202021-green" /> <img src="https://img.shields.io/badge/release-v1.1-blueviolet" /> <img src="https://img.shields.io/badge/python-v3.7.4-yellow">
 ---------------------------------
 
 # Desktop App - Repeater Availability Checker
